@@ -1,2 +1,2 @@
-# DLLA
-# DLLA
+运行说明
+example/run_dlla.sh
