@@ -1,2 +1,3 @@
 # 运行说明
-'example/run_dlla.sh'
+## 运行主实验
+`example/run_dlla.sh`
