@@ -1,2 +1,2 @@
-#运行说明
-example/run_dlla.sh
+# 运行说明
+'example/run_dlla.sh'
